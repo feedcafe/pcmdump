@@ -1,0 +1,5 @@
+use pcmdump like this:
+
+pcmdump -r /tmp/btsnoop_hci.log
+
+aplay -f S16_LE -r 16000 *.pcm
